@@ -76,5 +76,9 @@
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/Cross_Fader</url>
 	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/fiji/Cross_Fader/issues</url>
+	</issueManagement>
 
 </project>
