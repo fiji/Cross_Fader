@@ -47,7 +47,7 @@
 	</issueManagement>
 	<ciManagement>
 		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/Cross_Fader</url>
+		<url>http://jenkins.imagej.net/job/Cross_Fader/</url>
 	</ciManagement>
 
 	<repositories>
