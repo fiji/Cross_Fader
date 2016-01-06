@@ -19,6 +19,41 @@
 	<name>Cross Fader</name>
 	<description>An ImageJ 1.x plugin to compare two images</description>
 
+	<developers>
+		<developer>
+			<id>schmid</id>
+			<name>Michael Schmid</name>
+			<email>schmid@iap.tuwien.ac.at</email>
+			<url>http://www.iap.tuwien.ac.at/www/surface/group/schmid/index</url>
+			<organization>Institut für Angewandte Physik, TU Wien</organization>
+			<organizationUrl>http://www.iap.tuwien.ac.at/www/index</organizationUrl>
+			<roles>
+				<role>architect</role>
+				<role>developer</role>
+			</roles>
+			<timezone>+1</timezone>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>scm:git:git://github.com/fiji/Cross_Fader</connection>
+		<developerConnection>scm:git:git@github.com:fiji/Cross_Fader</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/Cross_Fader</url>
+	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/fiji/Cross_Fader/issues</url>
+	</issueManagement>
+
+	<repositories>
+		<!-- NB: for project parent -->
+		<repository>
+			<id>imagej.public</id>
+			<url>http://maven.imagej.net/content/groups/public</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
 		<dependency>
 			<groupId>net.imagej</groupId>
@@ -45,40 +80,4 @@
 			</testResource>
 		</testResources>
 	</build>
-
-	<developers>
-		<developer>
-			<id>schmid</id>
-			<name>Michael Schmid</name>
-			<email>schmid@iap.tuwien.ac.at</email>
-			<url>http://www.iap.tuwien.ac.at/www/surface/group/schmid/index</url>
-			<organization>Institut für Angewandte Physik, TU Wien</organization>
-			<organizationUrl>http://www.iap.tuwien.ac.at/www/index</organizationUrl>
-			<roles>
-				<role>architect</role>
-				<role>developer</role>
-			</roles>
-			<timezone>+1</timezone>
-		</developer>
-	</developers>
-
-	<repositories>
-		<!-- NB: for project parent -->
-		<repository>
-			<id>imagej.public</id>
-			<url>http://maven.imagej.net/content/groups/public</url>
-		</repository>
-	</repositories>
-
-	<scm>
-		<connection>scm:git:git://github.com/fiji/Cross_Fader</connection>
-		<developerConnection>scm:git:git@github.com:fiji/Cross_Fader</developerConnection>
-		<tag>HEAD</tag>
-		<url>https://github.com/fiji/Cross_Fader</url>
-	</scm>
-	<issueManagement>
-		<system>GitHub Issues</system>
-		<url>https://github.com/fiji/Cross_Fader/issues</url>
-	</issueManagement>
-
 </project>
