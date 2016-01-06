@@ -14,7 +14,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>Cross_Fader</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<name>Cross Fader</name>
 	<description>An ImageJ 1.x plugin to compare two images</description>
