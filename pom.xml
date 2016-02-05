@@ -21,19 +21,29 @@
 
 	<developers>
 		<developer>
-			<id>schmid</id>
-			<name>Michael Schmid</name>
-			<email>schmid@iap.tuwien.ac.at</email>
-			<url>http://www.iap.tuwien.ac.at/www/surface/group/schmid/index</url>
-			<organization>Institut für Angewandte Physik, TU Wien</organization>
-			<organizationUrl>http://www.iap.tuwien.ac.at/www/index</organizationUrl>
+			<id>ctrueden</id>
+			<name>Curtis Rueden</name>
+			<email>ctrueden@wisc.edu</email>
+			<url>http://loci.wisc.edu/people/curtis-rueden</url>
+			<organization>UW-Madison LOCI</organization>
+			<organizationUrl>http://loci.wisc.edu/</organizationUrl>
 			<roles>
-				<role>architect</role>
-				<role>developer</role>
+				<role>maintainer</role>
 			</roles>
-			<timezone>+1</timezone>
+			<timezone>-6</timezone>
 		</developer>
 	</developers>
+	<contributors>
+		<contributor>
+			<name>Michael Schmid</name>
+			<roles><role>founder</role></roles>
+		</contributor>
+		<contributor>
+			<name>Johannes Schindelin</name>
+			<url>http://imagej.net/User:Schindelin</url>
+			<properties><id>dscho</id></properties>
+		</contributor>
+	</contributors>
 
 	<scm>
 		<connection>scm:git:git://github.com/fiji/Cross_Fader</connection>
