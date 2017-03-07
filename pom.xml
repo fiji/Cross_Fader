@@ -72,8 +72,8 @@
 		<url>https://github.com/fiji/Cross_Fader/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/Cross_Fader/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/fiji/Cross_Fader</url>
 	</ciManagement>
 
 	<properties>

@@ -1,3 +1,5 @@
+[![](https://travis-ci.org/fiji/Cross_Fader.svg?branch=master)](https://travis-ci.org/fiji/Cross_Fader)
+
 This is a simple ImageJ 1.x plugin to inspect differences between two images.
 
 To keep it reasonably simple, it uses the 'preview' function of an
