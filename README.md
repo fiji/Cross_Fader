@@ -1,4 +1,4 @@
-[![](https://travis-ci.org/fiji/Cross_Fader.svg?branch=master)](https://travis-ci.org/fiji/Cross_Fader)
+[![](https://github.com/fiji/Cross_Fader/actions/workflows/build-main.yml/badge.svg)](https://github.com/fiji/Cross_Fader/actions/workflows/build-main.yml)
 
 This is a simple ImageJ 1.x plugin to inspect differences between two images.
 
