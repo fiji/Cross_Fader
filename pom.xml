@@ -62,7 +62,7 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/fiji/Cross_Fader</connection>
+		<connection>scm:git:https://github.com/fiji/Cross_Fader</connection>
 		<developerConnection>scm:git:git@github.com:fiji/Cross_Fader</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/Cross_Fader</url>
